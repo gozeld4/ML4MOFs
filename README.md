@@ -1,6 +1,6 @@
 # ML4MOFs
 
-This repository contains code to find the optimal random state for data splitting across different machine learning models, specifically for predicting KVRH values of Metal-Organic Frameworks (MOFs). The machine learning models include Random Forest, Gradient Boosting, Kernel Ridge Regression (KRR) with Laplacian kernel, and KRR with RBF kernel. The code uses four different datasets and calculates the R² score for each model.
+This repository contains code to find the optimal random state for data splitting across different machine learning models, specifically for predicting KVRH values of Metal-Organic Frameworks (MOFs). The machine learning models using different classifiers such as Random Forest, Gradient Boosting, Kernel Ridge Regression (KRR) with Laplacian kernel, and KRR with RBF kernel. The code uses four different datasets and calculates the R² score for each model.
 
 ### Includes:
 - **ML_models_water_uptake_all_train.py**: Contains all the code for training the models and evaluating their performance.
